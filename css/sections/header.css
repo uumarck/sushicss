@@ -27,24 +27,3 @@
   color:#fff;
 }
 
-
-.header__menu, .header_menu-mobile {
-  padding: 20px;
-  flex: 1.236;
-  display: flex;
-  align-items: center;
-  justify-content: flex-end;
-  gap: 64px;
-
-  list-style: none;
-}
-
-.header__menu li {
-  font-weight: 500;
-  font-family: var(--plus-jakarta-sans);
-  color: var(--secondary-color);
-  font-size: 16px;
-  text-transform: uppercase;
-  line-height: 20px;
-  cursor: pointer;
-}
